@@ -12,6 +12,7 @@ You can checkout a _very_ quick walkthrough of the project [here](https://www.yo
 - [Install React Native](https://facebook.github.io/react-native/docs/getting-started.html#content)
 - Clone Repo: `git clone https://github.com/spencercarli/react-native-meteor-boilerplate.git`
 - From the `RNApp` directory run `npm install`
+- From the `MeteorApp` directory run `meteor npm install`
 
 ## Running on iOS Simulator
 
